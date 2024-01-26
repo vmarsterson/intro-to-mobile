@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "934ba102-4704-4573-86b4-5091f7790fb6"
+      }
+    },
+    "owner": "vmarsterson"
   }
 }
